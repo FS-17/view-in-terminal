@@ -13,7 +13,7 @@ This Python project converts images or videos to ASCII art and displays them in 
 Run the `viewInTerminal.py` script with the following arguments:
 
 - `src`: The source image or video file. Example: `path/to/image.jpg`
-- `-c`, `--color`: (Optional) The number of colors to use in the image. Default is 45. Example: `20`
+- `-c`, `--color`: (Optional) The number of colors to use in the image. max: 70, min:2, Default is 45. Example: `20`
 
 Example command:
 
